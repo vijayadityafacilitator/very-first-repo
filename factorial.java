@@ -13,5 +13,7 @@ public class factorial {
         fact = fact * i;
     }
     System.out.println("factorial of the number " + num + " is: " + fact);
+    // hello guys
+    System.out.println("hello guys factorial is printed.");
 }
 }
